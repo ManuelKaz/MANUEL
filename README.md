@@ -21,7 +21,7 @@
 </div>
 
 
-> [Automated Multi Device whatsapp bot created](https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD) by [ШHłТΞ HΛϾКΞЯS](https://github.com/KING-BOT-OFFICIAL)
+> [Automated Multi Device whatsapp bot created](https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD) by [MANUEL](https://github.com/KING-BOT-OFFICIAL)
 
 > IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
