@@ -5,7 +5,7 @@
   "logo": "https://besthqwallpapers.com/Uploads/13-5-2021/168044/thumb2-happy-birthday-manuel-4k-blue-neon-lights-manuel-name-creative.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": { 
-        "ALIVE_MASSAGE": {
+        "ALIVE_MESSAGE": {
             "description": "It's okay if you didn't put it ...",
             "required": true,
             "value":""
