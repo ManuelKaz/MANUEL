@@ -12,20 +12,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
-global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
+global.owner = ['+265994277623']
+global.premium = ['+265994277623']
+global.ownernomer = '+265994277623'
+global.ownername = 'MANUEL'
+global.botname = '[MANUEL BOT]'
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
-global.ig = 'https://github.com/KING-BOT-OFFICIAL'
-global.region = 'Sri Lanka'
-global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
+global.ig = 'https://github.com/MANUEL-BOT-1'
+global.region = 'Malawi'
+global.sc = 'https://github.com/MANUEL-BOT-1/MANUEL-BOT'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.author = 'ШHłТΞ HΛϾКΞЯS'
+global.packname = '[MANUEL]'
+global.author = 'Manuel K'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
+global.prefa = ['','!','.','🇲🇼','⚙️','🤘']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
